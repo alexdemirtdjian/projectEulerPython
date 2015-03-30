@@ -10,3 +10,4 @@ Problems solved so far :
 - problem 12
 - problem 18
 - problem 23
+- problem 206
