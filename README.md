@@ -10,6 +10,7 @@ Problems solved so far :
 - problem 12
 - problem 18
 - problem 23
+- probleme 27
 - problem 29
 - problem 31
 - probleme 107
