@@ -21,6 +21,7 @@ Problems solved so far :
 - problem 38
 - problem 39
 - problem 41
+- problem 42
 - problem 43
 - problem 46
 - problem 47
