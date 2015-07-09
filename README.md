@@ -28,6 +28,7 @@ Problems solved so far :
 - problem 47
 - problem 49
 - problem 50
+- problem 52
 - problem 56
 - problem 59
 - problem 63
