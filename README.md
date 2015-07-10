@@ -30,6 +30,7 @@ Problems solved so far :
 - problem 50
 - problem 52
 - problem 56
+- problem 57
 - problem 59
 - problem 63
 - probleme 107
