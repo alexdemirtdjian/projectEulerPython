@@ -63,16 +63,6 @@ def euler_85():
 	return res
 
 
-
-
-
-
-
-
-
-
-
-
 def main():
 	# some checks
 	print(phi(3, 2))  # 18 ok
